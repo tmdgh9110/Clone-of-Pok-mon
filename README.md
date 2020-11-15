@@ -1,1 +1,1 @@
-# Clone-of-Pok-mon
+# Clone-of-Pokemon
